@@ -8,7 +8,7 @@ s.summary = "PoilabsSdkAnalytics"
 #s.requires_arc = true
 
 #2
-s.version = "1.0.1"
+s.version = "1.0.2"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -23,6 +23,10 @@ s.homepage = "https://github.com/poiteam/ios-sdk-analytics-pod"
 s.source = { :git => "https://github.com/poiteam/ios-sdk-analytics-pod.git",
              :tag => "#{s.version}" }
 
+s.pod_target_xcconfig = {
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+  }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 s.ios.vendored_frameworks = 'PoilabsSdkAnalytics.xcframework'
 end
