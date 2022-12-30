@@ -12,7 +12,7 @@
 
 + (instancetype)sharedInstance;
 
--(void)setAppId:(NSString *)appId andSecret: (NSString *)secret uniqueIdentifier:(NSString *)uniqueIdentifier clientCode: (NSString *)clientCode;
+-(void)setAppId:(NSString *)appId andSecret: (NSString *)secret uniqueIdentifier:(NSString *)uniqueIdentifier clientCode: (NSString *)clientCode placeId:(NSString *)placeId;
 
 -(void)makeRequest: (NSMutableURLRequest *)request;
 

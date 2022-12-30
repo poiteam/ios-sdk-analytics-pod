@@ -25,6 +25,8 @@
 
 @property(strong, nonatomic) NSString *uniqueIdentifier;
 
+@property(strong, nonatomic) NSString *placeId;
+
 -(NSMutableDictionary *)getClientData;
 
 @end

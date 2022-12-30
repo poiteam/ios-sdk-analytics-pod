@@ -18,11 +18,11 @@
 		</data>
 		<key>Headers/PLSdkAnalyticsConstants.h</key>
 		<data>
-		2CvXAJqhK0Ep6W1M1B9uwW/jnyY=
+		M73lGfCePnE5mWuZoTCJrxgcpEY=
 		</data>
 		<key>Headers/PLSdkAnalyticsLogger.h</key>
 		<data>
-		Q5JxZQvQ+H7428SmQYPQWEIQ7cA=
+		dKEEza7Qv5YfvRjiL1Pc7vbBA6g=
 		</data>
 		<key>Headers/PLSearchLog.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HdEnHDK6JU3a0OPG+DOh8wKuOAs=
+		LI4SJVxTFN3FqlMO52F+k51kKTE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,14 +68,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1HfkTq7Cmp4AgBiPP9dQkJSZBLG8sNsSyQaDYdkru1M=
+			UmKIE1/XFkJ4+Y0XFPgUpMGYXDsmPSikYQTySyc9gT8=
 			</data>
 		</dict>
 		<key>Headers/PLSdkAnalyticsLogger.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aQElFN3X+cPquLxctHGv91M38oZhOK8Ygj6Hj9xcfyA=
+			s/8sQjFetayCRd/oZvFJslfFCrcWPgozH3AXKUrlQ4E=
 			</data>
 		</dict>
 		<key>Headers/PLSearchLog.h</key>
