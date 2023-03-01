@@ -9,6 +9,7 @@
 #import <PoilabsSdkAnalytics/PLRouteLog.h>
 #import <PoilabsSdkAnalytics/PLArrivedLog.h>
 #import <PoilabsSdkAnalytics/PLSearchLog.h>
+#import <PoilabsSdkAnalytics/PLThresholdLog.h>
 #import <PoilabsSdkAnalytics/PLSdkAnalyticsLogger.h>
 #import <PoilabsSdkAnalytics/PLSdkAnalyticsConstants.h>
 
