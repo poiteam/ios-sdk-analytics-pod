@@ -28,13 +28,17 @@
 		<data>
 		neBsUmcoJVAWDl5wjZ80cfkOA08=
 		</data>
+		<key>Headers/PLThresholdLog.h</key>
+		<data>
+		YA1ynqiWq5kZEgcjZbxiiUiM9E0=
+		</data>
 		<key>Headers/PoilabsSdkAnalytics.h</key>
 		<data>
-		kHDSSWJH3Erb0M9RqIOMg+6ywmo=
+		NY8doNBaZ930vxGgWxvYZ8augn4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5sLz2g2+3aut2IgPZwNgPBOsTgY=
+		POm2ZJdoQxpDavMpDiKRd3jPBXE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,11 +89,18 @@
 			6J+lJQu/HiEx0/Q7VBPK0L2YULCi+v7aAhVGFGjqOzI=
 			</data>
 		</dict>
+		<key>Headers/PLThresholdLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/eFVpVYIlVRIANvp9UsrkYK56qTgxz/oLSkjyfEcKYI=
+			</data>
+		</dict>
 		<key>Headers/PoilabsSdkAnalytics.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			erLHUV3yxLTwHcuomKKuZUMcgbLq4UYBtSKk5PHGHdI=
+			Nki1Z7e+zg2hvC2XaNtfTzSwgWdkj0Iimc4/8X4Djeo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
