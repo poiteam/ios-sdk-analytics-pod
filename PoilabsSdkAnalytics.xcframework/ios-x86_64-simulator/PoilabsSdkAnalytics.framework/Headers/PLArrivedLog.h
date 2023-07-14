@@ -13,9 +13,9 @@
 
 - (instancetype)init:(NSArray<NSNumber *> *)startLocation endLocation:(NSArray<NSNumber *> *)endLocation startPoint:(NSString *)startPoint endPoint:(NSString *)endPoint clientSdkVersion: (NSString *)clientSdkVersion;
 
-@property(assign, nonatomic) NSArray<NSNumber *> *startLocation;
+@property(strong, nonatomic) NSArray<NSNumber *> *startLocation;
 
-@property(assign, nonatomic) NSArray<NSNumber *> *endLocation;
+@property(strong, nonatomic) NSArray<NSNumber *> *endLocation;
 
 @property(assign, nonatomic) NSString *startPoint;
 
