@@ -8,13 +8,25 @@
 		<data>
 		s4zcmt7rEyFGru7Jiz/494CL9zk=
 		</data>
+		<key>Headers/PLCloseMapLog.h</key>
+		<data>
+		v1SrE5qG8AhrbFinjjnLnJmbr5k=
+		</data>
 		<key>Headers/PLLog.h</key>
 		<data>
 		Epp8ZPObvnKQR4no+nLEEtjEn/E=
 		</data>
+		<key>Headers/PLReRouteLog.h</key>
+		<data>
+		dBmLJb+8SXvkpAIYx+9M7KCLzfs=
+		</data>
+		<key>Headers/PLRemoveRouteLog.h</key>
+		<data>
+		dzXmksiyiXPuN2D7MgX3HhE+WNA=
+		</data>
 		<key>Headers/PLRouteLog.h</key>
 		<data>
-		eWTs2Nf3Ob6xE8glgkkPx3E81yU=
+		XANPhYYN6LJd86AYtyTvAehv/C0=
 		</data>
 		<key>Headers/PLSdkAnalyticsConstants.h</key>
 		<data>
@@ -26,7 +38,7 @@
 		</data>
 		<key>Headers/PLSearchLog.h</key>
 		<data>
-		neBsUmcoJVAWDl5wjZ80cfkOA08=
+		/eZwvbeLPFoK2uLGvpxXrzy+3Ak=
 		</data>
 		<key>Headers/PLThresholdLog.h</key>
 		<data>
@@ -34,11 +46,11 @@
 		</data>
 		<key>Headers/PoilabsSdkAnalytics.h</key>
 		<data>
-		NY8doNBaZ930vxGgWxvYZ8augn4=
+		QbLSWDiZQpM6v8tBgtiz/iQGxaE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lPwaLh19dWDM96YodyFoCMLhdaQ=
+		aqhazhbAkKuzI2pt2dthZF7u7lI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,6 +66,13 @@
 			1yDrfuQdYituCEwvnvRsjTw7MlnTZtx4pe9f33V/to0=
 			</data>
 		</dict>
+		<key>Headers/PLCloseMapLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z7gDnSoIIqWgL45Sx5ZngP/9joKfFXW5UGt/XIzBGQw=
+			</data>
+		</dict>
 		<key>Headers/PLLog.h</key>
 		<dict>
 			<key>hash2</key>
@@ -61,11 +80,25 @@
 			hRLy80fT/cJtUR00fXYlAkSzlRbxgRQ4yTBuS0lxVd8=
 			</data>
 		</dict>
+		<key>Headers/PLReRouteLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cMuPY39JHYDFRDvQzcb36mF1engHrctOLmUZAEtk3gw=
+			</data>
+		</dict>
+		<key>Headers/PLRemoveRouteLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4TSBgQ2MfTUh27HcZvk8rlCWbGoyUTzQvdDvfrg1gvY=
+			</data>
+		</dict>
 		<key>Headers/PLRouteLog.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LJazaadWhgZHB/eOIDaDdpmQJ/FxH+BGpNuBvzGQ/dw=
+			NyghkEj3u5FStMc0RnruHU0vGxjPNj+0+ZFSHLKblNg=
 			</data>
 		</dict>
 		<key>Headers/PLSdkAnalyticsConstants.h</key>
@@ -86,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6J+lJQu/HiEx0/Q7VBPK0L2YULCi+v7aAhVGFGjqOzI=
+			2vZCyitBnYTdm28STEbM5+i97l+DG0zRowsh4GpJM4I=
 			</data>
 		</dict>
 		<key>Headers/PLThresholdLog.h</key>
@@ -100,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nki1Z7e+zg2hvC2XaNtfTzSwgWdkj0Iimc4/8X4Djeo=
+			S+druo6Txbt4IWIPUwFwFBh1moJA/mzii6qVmYi7W6E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

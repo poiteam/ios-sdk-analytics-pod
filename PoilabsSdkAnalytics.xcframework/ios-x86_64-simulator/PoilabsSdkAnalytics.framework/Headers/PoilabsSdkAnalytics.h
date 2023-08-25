@@ -12,7 +12,9 @@
 #import <PoilabsSdkAnalytics/PLThresholdLog.h>
 #import <PoilabsSdkAnalytics/PLSdkAnalyticsLogger.h>
 #import <PoilabsSdkAnalytics/PLSdkAnalyticsConstants.h>
-
+#import <PoilabsSdkAnalytics/PLRemoveRouteLog.h>
+#import <PoilabsSdkAnalytics/PLReRouteLog.h>
+#import <PoilabsSdkAnalytics/PLCloseMapLog.h>
 
 //! Project version number for ios_sdk_analytics.
 FOUNDATION_EXPORT double PoilabsSdkAnalyticsVersionNumber;
