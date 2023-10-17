@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/PLLog.h</key>
 		<data>
-		Epp8ZPObvnKQR4no+nLEEtjEn/E=
+		VY/ogwOHkx8b2CAhnVza6Fe2cCc=
 		</data>
 		<key>Headers/PLReRouteLog.h</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Headers/PLSdkAnalyticsConstants.h</key>
 		<data>
-		M73lGfCePnE5mWuZoTCJrxgcpEY=
+		j2Bl7VIyAyCGYojQECuFrwZ8UE4=
 		</data>
 		<key>Headers/PLSdkAnalyticsLogger.h</key>
 		<data>
-		dKEEza7Qv5YfvRjiL1Pc7vbBA6g=
+		Rv2fO8VQz6IWsW5iS0XXoT2B3hw=
 		</data>
 		<key>Headers/PLSearchLog.h</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aqhazhbAkKuzI2pt2dthZF7u7lI=
+		NaHuGqzzNbr0zhDGzYyzZ0g58Ds=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		wspOno9ySvWdQy99Ge2CsOeZ8Bo=
+		DiKDV6g56tTmcJUvaogonFy1AdY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -77,7 +77,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hRLy80fT/cJtUR00fXYlAkSzlRbxgRQ4yTBuS0lxVd8=
+			4tXnl8xnI3GUtJyVarp12oVwmQQK2c9RJPtLck+UOLw=
 			</data>
 		</dict>
 		<key>Headers/PLReRouteLog.h</key>
@@ -105,14 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UmKIE1/XFkJ4+Y0XFPgUpMGYXDsmPSikYQTySyc9gT8=
+			ak7nTZeiGV5ewujsgP7IGkc1asW3AJ1SKKHjVH/NdQE=
 			</data>
 		</dict>
 		<key>Headers/PLSdkAnalyticsLogger.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s/8sQjFetayCRd/oZvFJslfFCrcWPgozH3AXKUrlQ4E=
+			VA75ZIjIg2o3NWP7reJ2guKtD/082QmQiazzb2d4nMo=
 			</data>
 		</dict>
 		<key>Headers/PLSearchLog.h</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8ovxtIGoQBtsqyGRQhPly0eiYkF4ebP9f5lJMAGo5qg=
+			6r7Q0FUjF0AJA/TZ/RWER8jc5wyGWbQX1hIJzPnQL3Q=
 			</data>
 		</dict>
 	</dict>

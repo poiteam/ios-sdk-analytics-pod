@@ -10,7 +10,6 @@
 
 @interface PLLog : NSMutableURLRequest
 
-@property(assign, nonatomic) NSString *path;
 @property(assign, nonatomic) NSDictionary *eventData;
 @property(strong, nonatomic) NSMutableDictionary *clientData;
 

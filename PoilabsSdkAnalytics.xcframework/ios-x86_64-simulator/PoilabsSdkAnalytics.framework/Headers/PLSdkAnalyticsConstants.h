@@ -15,8 +15,6 @@
 
 @property(strong, nonatomic) NSString *baseUrl;
 
-@property(strong, nonatomic) NSString *clientPath;
-
 @property(strong, nonatomic) NSString *sdkCode;
 
 @property(strong, nonatomic) NSString *applicationId;
