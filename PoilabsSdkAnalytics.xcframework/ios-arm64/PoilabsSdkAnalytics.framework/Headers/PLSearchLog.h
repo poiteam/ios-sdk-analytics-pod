@@ -12,7 +12,7 @@
 
 - (instancetype)initSearchKeyword:(NSString *) keyword userLocation:(NSArray<NSNumber*>*)userLocation clientSdkVersion: (NSString *)clientSdkVersion;
 
-@property(assign, nonatomic) NSString *keyword;
+@property(strong, nonatomic) NSString *keyword;
 @property(strong, nonatomic) NSArray<NSNumber *> *userLocation;
 
 @end
