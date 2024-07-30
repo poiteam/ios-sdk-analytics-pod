@@ -10,7 +10,7 @@
 
 @interface PLSearchLog : PLLog
 
-- (instancetype)initSearchKeyword:(NSString *) keyword userLocation:(NSArray<NSNumber*>*)userLocation clientSdkVersion: (NSString *)clientSdkVersion;
+- (instancetype)initSearchKeyword:(NSString *) keyword userLocation:(NSArray<NSNumber*>*)userLocation;
 
 @property(strong, nonatomic) NSString *keyword;
 @property(strong, nonatomic) NSArray<NSNumber *> *userLocation;

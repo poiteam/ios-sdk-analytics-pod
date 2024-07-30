@@ -11,7 +11,7 @@
 
 @interface PLCloseMapLog : PLLog
 
-- (instancetype)initMapCloseLogWithMapState:(NSString *) state userLocation:(NSArray<NSNumber*>*)userLocation clientSdkVersion: (NSString *)clientSdkVersion;
+- (instancetype)initMapCloseLogWithMapState:(NSString *) state userLocation:(NSArray<NSNumber*>*)userLocation;
 
 @property (strong, nonatomic) NSString *mapState;
 @property(strong, nonatomic) NSArray<NSNumber *> *userLocation;

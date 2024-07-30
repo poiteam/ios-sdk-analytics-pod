@@ -7,10 +7,28 @@
 
 #import "PLLog.h"
 
+//“storeId”, “facility”, “click”, “showAllResults”, “showOnMap”, “sharedLocation”, “scroll”, “search”
+
+typedef enum PLRouteLogType: NSUInteger {
+    storeId,
+    facility,
+    click,
+    showAllResults,
+    showOnMap,
+    sharedLocation,
+    scroll,
+    search,
+    reroute,
+    removeRoute,
+    multiPointRoute,
+    parking
+} PLRouteLogType;
 
 @interface PLRouteLog : PLLog
 
-- (instancetype)init:(NSArray<NSNumber *> *)startLocation startPoint:(NSString *)startPoint endPoint:(NSString *)endPoint pointIdsOnRoute:(NSArray<NSString *> *)routePoints estimatedDuration:(int)duration routeLength:(int)length clientSdkVersion: (NSString *)clientSdkVersion;
+- (instancetype)initWithType:(PLRouteLogType)type startLocation:(NSArray<NSNumber *> *)startLocation startPoint:(NSString *)startPoint endPoint:(NSString *)endPoint pointIdsOnRoute:(NSArray<NSString *> *)routePoints estimatedDuration:(int)duration routeLength:(int)length;
+
+@property(assign, nonatomic) PLRouteLogType type;
 
 @property(strong, nonatomic) NSArray<NSNumber *> *startLocation;
 

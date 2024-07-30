@@ -6,15 +6,35 @@
 	<dict>
 		<key>Headers/PLArrivedLog.h</key>
 		<data>
-		s4zcmt7rEyFGru7Jiz/494CL9zk=
+		lbPESbPNqDEH1DgeT2SkIzxRAyI=
+		</data>
+		<key>Headers/PLButtonLog.h</key>
+		<data>
+		r4rIPSPnPAdTtHSFQ9X6BnuLFfo=
+		</data>
+		<key>Headers/PLCarButtonLog.h</key>
+		<data>
+		KISicIpSURtaslrANkblDEgsp7c=
 		</data>
 		<key>Headers/PLCloseMapLog.h</key>
 		<data>
-		v1SrE5qG8AhrbFinjjnLnJmbr5k=
+		ReHZSPdsy5u7hPOgY5pnZdpaZjk=
+		</data>
+		<key>Headers/PLLocationSharingLog.h</key>
+		<data>
+		fRaGSKhPtZPYrv095uXNtELl1uc=
 		</data>
 		<key>Headers/PLLog.h</key>
 		<data>
 		VY/ogwOHkx8b2CAhnVza6Fe2cCc=
+		</data>
+		<key>Headers/PLMapClickLog.h</key>
+		<data>
+		+wiTkQgU7INE7Sw6ZSw3mdXuXFA=
+		</data>
+		<key>Headers/PLOpenMapLog.h</key>
+		<data>
+		0j8gVq9ojgixBMe/Vx6Rg+G0NJQ=
 		</data>
 		<key>Headers/PLReRouteLog.h</key>
 		<data>
@@ -26,31 +46,35 @@
 		</data>
 		<key>Headers/PLRouteLog.h</key>
 		<data>
-		XANPhYYN6LJd86AYtyTvAehv/C0=
+		v8N+Bt1ExeLA0J6o3DvXtJG3DxA=
 		</data>
 		<key>Headers/PLSdkAnalyticsConstants.h</key>
 		<data>
-		j2Bl7VIyAyCGYojQECuFrwZ8UE4=
+		kA+yDTsoqKrXee5g5kfL431kV7s=
 		</data>
 		<key>Headers/PLSdkAnalyticsLogger.h</key>
 		<data>
-		Rv2fO8VQz6IWsW5iS0XXoT2B3hw=
+		cxBTzDcUgqU3km8su/RAY2Tm+mk=
 		</data>
 		<key>Headers/PLSearchLog.h</key>
 		<data>
-		+VRp65F6W5UbdCzJ1w72T7/ael4=
+		+kmKGMV9pwJXRj3jBrziFxM9H8I=
 		</data>
-		<key>Headers/PLThresholdLog.h</key>
+		<key>Headers/PLShowAllResultsLog.h</key>
 		<data>
-		YA1ynqiWq5kZEgcjZbxiiUiM9E0=
+		KaQiTsteNd0chBfZFHNvZzHXEf4=
+		</data>
+		<key>Headers/PLShowOnMapLog.h</key>
+		<data>
+		wx0OS2uocvgBgwp8IWnLaCdB0XM=
 		</data>
 		<key>Headers/PoilabsSdkAnalytics.h</key>
 		<data>
-		QbLSWDiZQpM6v8tBgtiz/iQGxaE=
+		RB+AUyNv2Ax9Odu/LwbKsMcE9JE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zOKidiyauC1qQmdF84FTfBkaz8I=
+		71OU+vi9COwRRBqrp0G6zD92lak=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,14 +87,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1yDrfuQdYituCEwvnvRsjTw7MlnTZtx4pe9f33V/to0=
+			qOxRshGJzB30P6/mpAmAe7AvnfSjhWjPnsGdyF107VY=
+			</data>
+		</dict>
+		<key>Headers/PLButtonLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b3Z71B98HspQDc1Ffbiea3e+H29pEtWkczOixDto8l4=
+			</data>
+		</dict>
+		<key>Headers/PLCarButtonLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lNZqRd4lu2kZvsZzBTG14T6yFxpamzCJMnAnrnKraYk=
 			</data>
 		</dict>
 		<key>Headers/PLCloseMapLog.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z7gDnSoIIqWgL45Sx5ZngP/9joKfFXW5UGt/XIzBGQw=
+			c+mk+963HMcgiMg+mmuUxBbX88aV2+kGmTVoE4L/RF8=
+			</data>
+		</dict>
+		<key>Headers/PLLocationSharingLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FKFUP3nbiap0Hh2VGY+rZmcbFwnZ+sHA5IX6kEtnLY4=
 			</data>
 		</dict>
 		<key>Headers/PLLog.h</key>
@@ -78,6 +123,20 @@
 			<key>hash2</key>
 			<data>
 			4tXnl8xnI3GUtJyVarp12oVwmQQK2c9RJPtLck+UOLw=
+			</data>
+		</dict>
+		<key>Headers/PLMapClickLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KG837iBcykW/at5KqXoBotyfpS5AjwGK55hjQ3CoSqI=
+			</data>
+		</dict>
+		<key>Headers/PLOpenMapLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q9Qff7AW7f7vN9zBdRTg1Gf70rvz0uNHXHkKDmgNZ4U=
 			</data>
 		</dict>
 		<key>Headers/PLReRouteLog.h</key>
@@ -98,42 +157,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NyghkEj3u5FStMc0RnruHU0vGxjPNj+0+ZFSHLKblNg=
+			LqRme24T3cv026hwhiwpc5zBXVVD9uJW6rylsxvHeKI=
 			</data>
 		</dict>
 		<key>Headers/PLSdkAnalyticsConstants.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ak7nTZeiGV5ewujsgP7IGkc1asW3AJ1SKKHjVH/NdQE=
+			RPCoOI63xNOhBZMO3V0r3GVEIg5UCmAhFvOJ9s/U/pc=
 			</data>
 		</dict>
 		<key>Headers/PLSdkAnalyticsLogger.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VA75ZIjIg2o3NWP7reJ2guKtD/082QmQiazzb2d4nMo=
+			4iknSWLSJ/7uGp1HO0f3fGUE4lgD6bHppWx55onXBi8=
 			</data>
 		</dict>
 		<key>Headers/PLSearchLog.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7pGVC6HT4wRZo0XusYbV0ej6wJYoGjIGmBfZQL36hxY=
+			WWVCGb96TetBA0NAsuBzvhrkrpRil5skdtmxA41iCy0=
 			</data>
 		</dict>
-		<key>Headers/PLThresholdLog.h</key>
+		<key>Headers/PLShowAllResultsLog.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/eFVpVYIlVRIANvp9UsrkYK56qTgxz/oLSkjyfEcKYI=
+			xTK3BnWc2qXFSts2Nh7IqvOb6kuBQE+oxfbRKU4tbqA=
+			</data>
+		</dict>
+		<key>Headers/PLShowOnMapLog.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lgpw5R8Ud2O+Sc1OJ84KmYoXn2FQIt0za0Fa32UTbNA=
 			</data>
 		</dict>
 		<key>Headers/PoilabsSdkAnalytics.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S+druo6Txbt4IWIPUwFwFBh1moJA/mzii6qVmYi7W6E=
+			fKykKsSbA/CXZSGuEzLejXKA1jBm8Hc98UKT5gkd1ZE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

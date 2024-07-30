@@ -9,13 +9,18 @@
 #import <PoilabsSdkAnalytics/PLRouteLog.h>
 #import <PoilabsSdkAnalytics/PLArrivedLog.h>
 #import <PoilabsSdkAnalytics/PLSearchLog.h>
-#import <PoilabsSdkAnalytics/PLThresholdLog.h>
 #import <PoilabsSdkAnalytics/PLSdkAnalyticsLogger.h>
 #import <PoilabsSdkAnalytics/PLSdkAnalyticsConstants.h>
 #import <PoilabsSdkAnalytics/PLRemoveRouteLog.h>
 #import <PoilabsSdkAnalytics/PLReRouteLog.h>
 #import <PoilabsSdkAnalytics/PLCloseMapLog.h>
-
+#import <PoilabsSdkAnalytics/PLButtonLog.h>
+#import <PoilabsSdkAnalytics/PLShowOnMapLog.h>
+#import <PoilabsSdkAnalytics/PLShowAllResultsLog.h>
+#import <PoilabsSdkAnalytics/PLMapClickLog.h>
+#import <PoilabsSdkAnalytics/PLCarButtonLog.h>
+#import <PoilabsSdkAnalytics/PLOpenMapLog.h>
+#import <PoilabsSdkAnalytics/PLLocationSharingLog.h>
 //! Project version number for ios_sdk_analytics.
 FOUNDATION_EXPORT double PoilabsSdkAnalyticsVersionNumber;
 

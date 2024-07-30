@@ -25,6 +25,12 @@
 
 @property(strong, nonatomic) NSString *placeId;
 
+@property(strong, nonatomic) NSString *sdkVersion;
+
+@property(strong, nonatomic) NSString *language;
+
+@property(strong, nonatomic) NSString *sessionId;
+
 -(NSMutableDictionary *)getClientData;
 
 @end

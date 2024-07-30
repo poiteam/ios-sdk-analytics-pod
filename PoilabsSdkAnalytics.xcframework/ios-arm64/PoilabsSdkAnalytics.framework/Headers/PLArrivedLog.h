@@ -11,7 +11,7 @@
 
 @interface PLArrivedLog : PLLog
 
-- (instancetype)init:(NSArray<NSNumber *> *)startLocation endLocation:(NSArray<NSNumber *> *)endLocation startPoint:(NSString *)startPoint endPoint:(NSString *)endPoint clientSdkVersion: (NSString *)clientSdkVersion;
+- (instancetype)init:(NSArray<NSNumber *> *)startLocation endLocation:(NSArray<NSNumber *> *)endLocation startPoint:(NSString *)startPoint endPoint:(NSString *)endPoint;
 
 @property(strong, nonatomic) NSArray<NSNumber *> *startLocation;
 
