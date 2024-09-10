@@ -21,6 +21,7 @@
 #import <PoilabsSdkAnalytics/PLCarButtonLog.h>
 #import <PoilabsSdkAnalytics/PLOpenMapLog.h>
 #import <PoilabsSdkAnalytics/PLLocationSharingLog.h>
+#import <PoilabsSdkAnalytics/PLThresholdLog.h>
 //! Project version number for ios_sdk_analytics.
 FOUNDATION_EXPORT double PoilabsSdkAnalyticsVersionNumber;
 
