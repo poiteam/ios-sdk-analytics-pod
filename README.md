@@ -1,30 +1,38 @@
 # PoilabsSdkAnalytics
 
-PoilabsSdkAnalytics için Swift Package Manager desteği.
+Swift Package Manager support for PoilabsSdkAnalytics.
 
-## Gereksinimler
-- iOS 11.0+
+## Requirements
+- iOS 12.0+
 - Xcode 12.0+
 - Swift 5.3+
 
-## Kurulum
+## Installation
 
 ### Swift Package Manager
 
-1. Xcode'da projenizi açın
-2. File > Add Packages... seçeneğine tıklayın
-3. Arama çubuğuna şu URL'yi yapıştırın:
+1. Open your project in Xcode
+2. Click File > Add Packages...
+3. Paste the following URL into the search bar:
 ```
 https://github.com/poiteam/ios-sdk-analytics-pod.git
 ```
-4. Version: Up to Next Major seçeneğini `1.0.12` olarak ayarlayın
-5. Add Package'a tıklayın
+4. Set Version: Up to Next Major to `1.0.13`
+5. Click Add Package
 
-## Kullanım
+### CocoaPods
+```ruby
+pod 'PoilabsSdkAnalytics', '~> 1.0.13'
+```
+
+## Usage
 
 ```swift
 import PoilabsSdkAnalytics
+
+// Initialize your analytics system
+PoilabsAnalyticsManager.shared.initialize(...)
 ```
 
-## Lisans
-MIT 
+## License
+Proprietary - All rights reserved. 

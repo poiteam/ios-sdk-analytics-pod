@@ -1,10 +1,11 @@
 // swift-tools-version:5.3
+// PoilabsSdkAnalytics - iOS SDK Analytics Package
 import PackageDescription
 
 let package = Package(
     name: "PoilabsSdkAnalytics",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v12)
     ],
     products: [
         .library(
