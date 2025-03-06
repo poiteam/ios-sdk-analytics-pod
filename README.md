@@ -17,12 +17,12 @@ Swift Package Manager support for PoilabsSdkAnalytics.
 ```
 https://github.com/poiteam/ios-sdk-analytics-pod.git
 ```
-4. Set Version: Up to Next Major to `1.0.13`
+4. Set Version: Up to Next Major to `1.0.14`
 5. Click Add Package
 
 ### CocoaPods
 ```ruby
-pod 'PoilabsSdkAnalytics', '~> 1.0.13'
+pod 'PoilabsSdkAnalytics', '~> 1.0.14'
 ```
 
 ## Usage
